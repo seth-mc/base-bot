@@ -1,6 +1,9 @@
 # Base Bot
 
-## Adding to the Computer:
+Welcome to the Base Bot - which will be the launch pad for our project! Check out the Lucid Chart here:
+
+[IN PROGRESS]
+
 
 ### To add the repository to your own computer:
 
