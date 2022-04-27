@@ -13,16 +13,17 @@ Welcome to the Base Bot - which will be the launch pad for our project! Check ou
 3. Tinker with the code. If you want to make changes and push them back, you will need to folow the cool coding approach. 
 
 #### The cool coding approach:
+1. Ensure you have Git installed
 ```
 git --version
 ```
-1. Create a new file for your GitHub documents.
-2. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
-3. open Terminal. Enter the following:
+2. Create a new file for your GitHub documents.
+3. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
+4. open Terminal. Enter the following:
 ```
 cd [paste FILEPATH to GitHub]
 ```
-4. clone the repo on in to your GitHub file:
+5. clone the repo on in to your GitHub file:
 ```
 git clone https://github.com/seth-mc/base-bot.git
 ```
