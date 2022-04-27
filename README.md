@@ -40,7 +40,22 @@ git remote set-url origin https://github.com/seth-mc/base-bot.git
 
 ```
 
-3. Add the files:
+3. Update the files with your new code:
+
+
+    To add all the changes you've made:
+        ```
+        git add .
+        ```
+    To add single folder:
+        ```
+        git add directory path
+        ```
+   To add multiple folders:
+        ```
+        git add folder1 folder2 folder3 folder4
+        ```
+
 ```
 git add .
 git commit -m "enter description here"
