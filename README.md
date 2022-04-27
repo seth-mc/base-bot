@@ -13,6 +13,9 @@ Welcome to the Base Bot - which will be the launch pad for our project! Check ou
 3. Tinker with the code. If you want to make changes and push them back, you will need to folow the cool coding approach. 
 
 #### The cool coding approach:
+```
+git --version
+```
 1. Create a new file for your GitHub documents.
 2. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
 3. open Terminal. Enter the following:
