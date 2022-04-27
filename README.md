@@ -1,4 +1,49 @@
-# Binance Volitility Trading Bot
+# Base Bot
+
+## Adding to the Computer:
+
+### To add the repository to your own computer:
+
+#### The manual approach:
+1. Click Code > Download ZIP.
+2. Open the ZIP file and put it somewhere nice. 
+3. Tinker with the code. If you want to make changes and push them back, you will need to folow the cool coding approach. 
+
+#### The cool coding approach:
+1. Create a new file for your GitHub documents.
+2. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
+3. open Terminal. Enter the following:
+```
+cd [FILEPATH to GitHub]
+```
+4. clone the repo on in to your GitHub file:
+```
+git clone https://github.com/seth-mc/base-bot.git
+```
+
+
+### After making changes to the repository:
+1. open Terminal. Enter the following:
+```
+cd [FILEPATH to GitHub]
+```
+
+2. Then, either add the URL (Or set-URL if you get a "fatal: remote origin already exists" error)
+
+```
+git remote add origin https://github.com/seth-mc/base-bot.git
+
+git remote set-url origin https://github.com/seth-mc/base-bot.git
+
+```
+
+3. Add the files:
+```
+git add .
+git commit -m "enter description here"
+git push origin main
+```
+
 
 ## Description
 This Binance trading bot analyses the changes in price across all coins on Binance and place trades on the most volatile ones. 
@@ -27,18 +72,3 @@ Please checkout our wiki pages:
 - [Setup Guide](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot/wiki/Setup-Guide)
 - [Bot Strategy Guide](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot/wiki/Bot-Strategy-Guide)
 - [Configuration Guide](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot/wiki/Configuration)
-
-## Troubleshooting
-
-1. Read the [FAQ](FAQ.md)
-2. Open an issue / check us out on `#troubleshooting` at [Discord](https://discord.gg/buD27Dmvu3) 🚀 
-    - Do not spam, do not berate, we are all humans like you, this is an open source project, not a full time job. 
-
-## 💥 Disclaimer
-
-All investment strategies and investments involve risk of loss. 
-**Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
-Any reference to an investment's past or potential performance is not, 
-and should not be construed as, a recommendation or as a guarantee of 
-any specific outcome or profit.
-By using this program you accept all liabilities, and that no claims can be made against the developers or others connected with the program.
