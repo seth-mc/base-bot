@@ -2,7 +2,7 @@
 
 Welcome to the Base Bot - which will be the launch pad for our project! Check out the Lucid Chart here:
 
-[IN PROGRESS]
+    [IN PROGRESS]
 
 
 ### To add the repository to your own computer:
@@ -17,7 +17,7 @@ Welcome to the Base Bot - which will be the launch pad for our project! Check ou
 2. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
 3. open Terminal. Enter the following:
 ```
-cd [FILEPATH to GitHub]
+cd [paste FILEPATH to GitHub]
 ```
 4. clone the repo on in to your GitHub file:
 ```
