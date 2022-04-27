@@ -1,0 +1,30 @@
+__*__
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Ignore virtual environment
+.venv
+
+# Ignore IDE settings
+.vscode
+
+# Ignore credentials file
+creds.yml
+
+# Ignore test/live files
+test*.txt
+live*.txt
+*.log
+*.json
+
+# Ignore special files
+_*.txt
+
+# Ignore bash scripts
+*.sh
