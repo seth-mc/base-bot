@@ -21,7 +21,7 @@ git --version
 3. Copy the filepath by going Edit > click "Alt" and select 'Copy "GitHub" as Filename'. 
 4. open Terminal. Enter the following:
 ```
-cd [paste FILEPATH to GitHub]
+cd [paste FILEPATH to base-bot]
 ```
 5. clone the repo on in to your GitHub file:
 ```
@@ -64,6 +64,16 @@ git remote set-url origin https://github.com/seth-mc/base-bot.git
 git add .
 git commit -m "enter description here"
 git push origin main
+```
+
+### If you want to pull the latest changes to your existing folder:
+1. open Terminal. Enter the following:
+```
+cd [paste FILEPATH to base-bot]
+```
+2. to a pull from the main branch:
+```
+git pull origin main
 ```
 
 
