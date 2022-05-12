@@ -1,4 +1,10 @@
-Here's how it works through a diagram I made:
+## Signal Bot
+
+Inputs (at their most basic):
+- time period (n)
+- quantity ($)
+- Take Profit (%) - can be floating
+- Stop Loss (%) - can be floating
 
 ![cryptobot-explained.gif](https://assets.codepen.io/6932556/cryptobot-explained.gif)
 
