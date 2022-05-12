@@ -6,9 +6,9 @@ Welcome to the Base Bot - which will be the launch pad for our project! Check ou
 
 Here's how it works through a diagram I made:
 
-```
-![Diagram](https://assets.codepen.io/6932556/cryptobot-explained.gif)
-```
+
+![cryptobot-explained.gif](https://assets.codepen.io/6932556/cryptobot-explained.gif)
+
 
 ### To add the repository to your own computer:
 
