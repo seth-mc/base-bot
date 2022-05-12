@@ -30,4 +30,4 @@ _*.txt
 *.sh
 
 # Ignore node modules
-fastly-bot/node_modules
+fastly-bot/node_modules/
